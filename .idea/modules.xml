@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JPA_Study.iml" filepath="$PROJECT_DIR$/.idea/JPA_Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaeJun/spring_jpa/spring_jpa.iml" filepath="$PROJECT_DIR$/TaeJun/spring_jpa/spring_jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_jpa.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_jpa.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_jpa.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_jpa.test.iml" />
+    </modules>
+  </component>
+</project>

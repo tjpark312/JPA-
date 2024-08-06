@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-data-jdbc:3.3.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.springframework.boot" artifactId="spring-boot-starter-data-jdbc" version="3.3.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jdbc/3.3.2/299ddd4cee2ecdca093be71511392278fcf22203/spring-boot-starter-data-jdbc-3.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

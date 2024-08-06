@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.data:spring-data-relational:3.3.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.springframework.data" artifactId="spring-data-relational" version="3.3.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/caches/modules-2/files-2.1/org.springframework.data/spring-data-relational/3.3.2/a3b9b56d0d8674707217bf8cbdc6b9dd942134f8/spring-data-relational-3.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
